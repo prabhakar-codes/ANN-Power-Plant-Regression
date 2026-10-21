@@ -1,0 +1,7 @@
+# Dependencies for the ANN regression project
+  numpy
+  pandas
+  matplotlib
+  scikit-learn
+  torch
+  jupyter
